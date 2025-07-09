@@ -1,0 +1,2 @@
+This is a sample test document.
+This will be used for TekStac API Testing Chapter 18, assignment 1.
